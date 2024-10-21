@@ -17,9 +17,10 @@ O objetivo geral desta análise é fornecer uma visão abrangente e estratégica
 
 A análise também visa destacar áreas de crescimento e oferecer recomendações práticas para maximizar a rentabilidade, melhorar a retenção de clientes e impulsionar o desempenho das filiais. Além disso, este estudo pretende auxiliar a empresa a ajustar suas campanhas promocionais e políticas de desconto, garantindo um equilíbrio entre o volume de vendas e a manutenção da margem de lucro. Ao final, espera-se que as recomendações propostas contribuam para a tomada de decisões orientadas por dados, promovendo uma melhoria contínua no desempenho global da **FictíciaTech**.
 
-## Desafio
 
 
-![image](https://github.com/user-attachments/assets/b373bcb9-fe27-4309-8988-f183955da0d6)
+## Dashboard 
+![image](https://github.com/user-attachments/assets/6ebd2a60-35b7-486e-bbe1-e14fba765774)
+
 
 
