@@ -49,6 +49,10 @@ A análise identificou importantes diferenças regionais nas preferências de co
 - **DAX (Data Analysis Expressions)**
 - **Power BI Desktop**
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Analyzed%20with-yellow)
+
+
+
 ## Instalação / Configuração
 1. Clone o repositório:  
    `git clone https://github.com/usuario/repo.git`
