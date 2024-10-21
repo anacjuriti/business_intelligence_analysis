@@ -10,10 +10,8 @@ O objetivo geral desta análise é fornecer uma visão abrangente e estratégica
 
 ## Insumos
 
-- **data/:** Contém os arquivos de dados utilizados nas análises.
-- **relatorio/:** Arquivo .pbix com as análises e visualizações.
-- **scripts/:** Scripts do processamento de dados.
-- **results/:** Resultados das análises, incluindo gráficos e relatórios.
+- **documentacao/**: Inclui a Ficha Técnica do projeto, que contém detalhes sobre a metodologia, variáveis analisadas, técnicas aplicadas e as limitações do estudo.
+- **relatorio/**: Arquivo .pbix do Power BI com as análises interativas e visualizações criadas. Nele, contém o dashboard e relatório final que podem ser explorados para obter insights adicionais.
 
 ## Resumo do Problema
 O desafio deste projeto foi a análise dos dados de vendas e segmentação de clientes com o intuito de identificar padrões de vendas, diferenças regionais e a eficácia de campanhas de marketing. A empresa buscou otimizar suas estratégias de distribuição e marketing para aumentar a eficiência em relação aos diferentes perfis de consumidores.
